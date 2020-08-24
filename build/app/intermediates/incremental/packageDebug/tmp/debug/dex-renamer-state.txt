@@ -1,0 +1,4 @@
+#Sat Aug 22 12:25:42 ICT 2020
+base.0=D\:\\ummik folder\\udacoding\\kalkulator1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
